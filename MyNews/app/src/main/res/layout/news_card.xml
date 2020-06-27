@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:padding="10dp"
+            android:background="@android:color/holo_green_dark"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:id="@+id/news_color"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                tools:text="Top News"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="12sp"
+                android:layout_marginRight="10dp"
+                android:layout_gravity="right"
+                android:id="@+id/news_tag"/>
+
+            <TextView
+                tools:text="@string/news_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:textSize="18sp"
+                android:maxLines="2"
+                android:ellipsize="end"
+                android:fontFamily=""
+                android:textColor="@android:color/black"
+                android:id="@+id/news_title"/>
+
+            <TextView
+                tools:text="@string/news_author"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:textSize="12sp"
+                android:id="@+id/news_author"/>
+
+            <TextView
+                tools:text="@string/news_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:textSize="12sp"
+                android:id="@+id/news_date"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

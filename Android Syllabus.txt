@@ -1,0 +1,55 @@
+Android Developer:
+`````````````````
+Android Basics :-
+``````````````
+
+	1. Android Basics:User Interface
+	2. Android Basics:User Input
+	3. Object-Oriented Programming:Part 1
+	4. Object-Oriented Programming:Part 2
+	5. Android Bascis: Multi-Screen Apps
+	6. Android Basics: Networking
+
+Android Advance :-
+```````````````
+TERM-I:
+		ud851 - Developing android apps? :
+	1. Create Project Sunshine
+	2. Connect to the Internet
+	3. RecyclerView
+	4. Intents
+	5. LifeCycle
+	6. Prefrences
+	7. Storing Data in SQLITE
+	8. Content Provider
+	9. Android Architecture Components
+	10.Background Tasks
+	11.Completing the UI
+	12.Polishing the UI
+	-----------------------------
+		ud855 - Advanced Android App Development:
+	13.Fragments
+	14.Libraries
+	15.Firebase Cloud Messaging
+	16.Places
+	17.Media Playback
+	18.Widgets
+	19.ESPRESSO
+	20.Publishing Your APP
+---------------------------------------------------------
+
+TERM-II:
+		ud867 - Gradle for Android and Java:
+	1. Gradle Fundamentals
+	2. Gradle for Java
+	3. Gradle for Android
+	4. Advance Android Builds
+	5. Special Topics
+	-------------------------------------------
+		ud862 - Material Design for Android Developers
+	6. Android Design Fundamentals
+	7. Surfaces
+	8. Bold Graphics Design
+	9. Meaningful Motion
+	10.Adaptive Design
+	11.Contraint Layout

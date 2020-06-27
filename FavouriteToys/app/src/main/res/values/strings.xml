@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FavouriteToys</string>
+    <string name="action_reset">Refresh</string>
+</resources>

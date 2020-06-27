@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="news_title">Temperatures may top 45C in southern Europe</string>
+    <string name="news_author">Written by: Harsh Kumar</string>
+    <string name="news_date">Sat 4 Aug 2018 14.34 BST</string>
+    <string name="news_tag">Top News</string>
+
+</resources>
